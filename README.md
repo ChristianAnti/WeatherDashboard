@@ -1,7 +1,7 @@
 # WeatherDashboard
 Using the OpenWeater Call API to make a simple weather website
 
-deployed site: 
+deployed site: https://christiananti.github.io/WeatherDashboard/
 
 # 06 Server-Side APIs: Weather Dashboard
 
